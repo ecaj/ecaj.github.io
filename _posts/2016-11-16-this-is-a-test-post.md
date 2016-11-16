@@ -6,6 +6,13 @@ summary:    Some summary
 categories: general
 ---
 
-# This is a test post
+## This is a test post
 
 Test post
+
+1. list
+2. in
+3. order
+
+and `code snippet`
+
